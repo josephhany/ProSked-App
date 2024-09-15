@@ -3,6 +3,7 @@ ProSked App is a course Scheduling app which allows students to generate more ef
 All copy rights © go to Joseph Hany.
 
 For Android users, you can download it from playstore or from this link https://play.google.com/store/apps/details?id=com.josephhany.prosked&hl=en&gl=US.
+Or this link: https://apkpure.com/prosked/com.josephhany.prosked
 
 <p align="center">
 <img width="300" height="300" src="https://user-images.githubusercontent.com/54475725/198894445-5c74defa-2e6b-46fb-bf53-da3a9899a34d.png">
